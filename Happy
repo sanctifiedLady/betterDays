@@ -1,0 +1,4 @@
+$ mkdir communication-log
+$ cd communication-log
+$ git init
+                
